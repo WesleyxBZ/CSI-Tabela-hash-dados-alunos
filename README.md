@@ -6,5 +6,5 @@ Dado um vetor de 50 posições, foi desenvolvido um algoritmo para adicionar os 
 Caso o número de matrícula do aluno tiver colisão com uma matrícula já o aluno é inserido em uma lista encadeada que é apontada pelo vetor da hash.
 
 Neste trabalho foi utilizado:
-*lista encadeada;
-*hash.
+* lista encadeada;
+* hash.
