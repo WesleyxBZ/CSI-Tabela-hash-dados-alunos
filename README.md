@@ -1,5 +1,5 @@
 # Tabela hash com dados de alunos
-Trabalhos I feito na cadeira de Estrutura de dados na UFSM em 2018/1
+Trabalho I feito na cadeira de Estrutura de dados na UFSM em 2018/1
 
 ### Descrição:
 Dado um vetor de 50 posições, foi desenvolvido um algoritmo para adicionar os alunos com base no seu número de matrícula pelo calculo hash. 
